@@ -1,6 +1,7 @@
 Hey, I'm Maria <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I make front-end based projects. Currently working as a full time React Native dev <br />
+I make front-end based projects. 
+Currently working as a full time React Native dev. <br />
 
  
 

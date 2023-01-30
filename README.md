@@ -15,7 +15,7 @@ I make front-end based projects. <br />
 <br />
 
 - 📍 &nbsp;	Current location: Romania
-- ⌨️ Currently working on: My personal portofilo (using React)
+- ⌨️ Currently working on: My personal portofilo (using React) - will be hosted
 - ▶️ Next up: Youtube Channel dedicated to React, JavaScript basic components
 - 💬 &nbsp;	For any info feel free to reach out, I am happy to answer
 - 💌 &nbsp;	How to reach me: [@lorinczmaria](https://www.linkedin.com/in/lorinczmaria/)

@@ -18,4 +18,3 @@ Currently working as a full time React Native dev. <br />
 - 📍 &nbsp;	Current location: Romania
 - ⌨️ Currently working on: My personal portofilo (using React) - will be hosted
 - 💬 &nbsp;	For any info feel free to reach out, I am happy to answer
-- 💌 &nbsp;	How to reach me: [@lorinczmaria](https://www.linkedin.com/in/lorinczmaria/)

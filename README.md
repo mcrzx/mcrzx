@@ -16,5 +16,5 @@ Currently working as a full time React Native dev. <br />
 <br />
 
 - 📍 &nbsp;	Current location: Romania
-- ⌨️ Currently working on: My personal portofilo (using React) - will be hosted
+- ⌨️ Currently working on: 🤖 RAG AI Assistant (Learning Project – In Progress)
 - 💬 &nbsp;	For any info feel free to reach out, I am happy to answer

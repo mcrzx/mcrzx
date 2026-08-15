@@ -15,5 +15,4 @@ Currently working as a full time Fontend dev. <br />
 
 <br />
 
-- 📍 &nbsp;	Current location: Romania
 - ⌨️ Currently working on: 🤖 RAG AI Assistant (In Progress)
